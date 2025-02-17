@@ -6,11 +6,6 @@ import entities.Coordinate;
 import entities.Shape2D;
 
 
-
-
-
-
-
 public class Main {
 public static void main(String[] args) {
         MainFrame a = new MainFrame();
